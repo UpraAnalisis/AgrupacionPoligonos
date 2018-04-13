@@ -166,7 +166,7 @@ try:
 					areas.pop(indiceMax)
 					codigos.pop(indiceMax)
 					nuevaSuma = sum(areas)
-					valorSumaTotal = valorAreaPoligonoInicial + nuevaSuma
+					valorSumaTotal = valorAreaPoligonoInicial[0] + nuevaSuma
 					
 				cadenaCodigos = str(codigos)
 				cadenaCodigos = cadenaCodigos.replace("[","(")
@@ -270,7 +270,7 @@ try:
 						areas.pop(indiceMax)
 						codigos.pop(indiceMax)
 						nuevaSuma = sum(areas)
-						valorSumaTotal = valorAreaPoligonoInicial + nuevaSuma
+						valorSumaTotal = valorAreaPoligonoInicial[0] + nuevaSuma
 					
 					cadenaCodigos = str(codigos)
 					cadenaCodigos = cadenaCodigos.replace("[","(")

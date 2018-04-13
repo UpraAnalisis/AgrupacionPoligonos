@@ -1,4 +1,4 @@
-import arcpy,os,subprocess,time,inspect
+﻿import arcpy,os,subprocess,time,inspect
 
 
 #=========Variables Globales y de Entorno=====================#
@@ -61,6 +61,9 @@ if __name__ == '__main__':
 	script=directorioyArchivo()
 	script=script[1]+r"\\"+scriptAuxiliar
 	arcpy.AddMessage("Ingresando...")
+	txt = open(r"x:\ruta.txt","w")
+	txt.write(verPython)
+	txt.close()
 	comando=r"start %s %s %s %s %s %s %s"%(verPython,script, pGDBBorrador, pGDBFinal, pFeatureClassInicial, pFieldSeleccionado, pValorMaximo)
 	arcpy.AddMessage(comando)
 	ff=subprocess.Popen(comando,stdin=None,stdout=subprocess.PIPE,shell=True,env=dict(os.environ, PYTHONHOME=verPythonDir))
