@@ -3,7 +3,7 @@
 <p>
 La herramienta fue desarrolada para la creación de grupos adyacentes de poligonos de acuerdo a magnitudes acumulativas o un atributo especifico.
 </p>
-<p align=center>
+<p align=center font-size=3em>
    <b>Instalación</b><br>
 </p>
 
