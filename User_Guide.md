@@ -1,5 +1,5 @@
 
-  ## Guía de Usuario para la formación de grupos polígonos adyacentes de acuerdo a una magnitud acumulativa.
+  ## Guía de Usuario para la formación de grupos de polígonos adyacentes de acuerdo a una magnitud acumulativa.
 
 <p>
 Instrucciones para insertar datos en el script:</br>
