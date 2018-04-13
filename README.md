@@ -8,4 +8,4 @@ La herramienta fue desarrolada para la creación de grupos adyacentes de poligon
 
 
   1. [Instalación](help\Installation.md)
-  2. [Guía de usuario]()
+  2. [Guía de usuario](help\User_Guide.md)
