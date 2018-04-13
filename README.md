@@ -7,5 +7,5 @@ La herramienta fue desarrolada para la creación de grupos adyacentes de poligon
 </p>
 
 
-  1. [Instalación](Installation.md)
+  1. [Instalación](help\Installation.md)
   2. [Guía de usuario]()
