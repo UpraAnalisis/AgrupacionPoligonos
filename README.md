@@ -1,5 +1,5 @@
 <p align=center >
-<<<<<<< HEAD
+
 ** SCRIPT DE PYTHON PARA LA GENERACIÓN DE GRUPOS DE POLÍGONOS**
 </p>
 
@@ -53,14 +53,16 @@ La herramienta fue desarrollada para la creación de grupos adyacentes de políg
 <p align="center">
  <img src="Imagenes\grupos.png">
 </p>
-=======
+
 SCRIPT DE PYTHON PARA LA GENERACIÓN DE GRUPOS DE POLÍGONOS
 </p>
 
 <p>
-La herramienta fue desarrolada para la creación de grupos adyacentes de poligonos de acuerdo a magnitudes acumulativas o un atributo especifico.
-</p>
+La herramienta fue desarrolada para la creación de grupos adyacentes de poligonos de acuerdo a magnitudes acumulativas o un atributo especifico. </br></br>
+
 1. Parámetros ingresados por el usuario.
+
+</p>
 
 <p align="center">
  <img src="Imagenes\interfazinicial.png">
@@ -106,4 +108,3 @@ La herramienta fue desarrolada para la creación de grupos adyacentes de poligon
 
   a. [Instalación](Installation.md)
   b. [Guía de usuario](User_Guide.md)
->>>>>>> 75e1d39f7a8d31b437a7a7dd0eed6c3db3b9eb51
