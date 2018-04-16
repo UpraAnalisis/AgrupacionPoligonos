@@ -6,7 +6,7 @@ a. [Instalación](Installation.md)
 
 b. [Guía de usuario](User_Guide.md)
 
-Breve descripción del Script
+## Breve descripción del Script
 <p>
 La herramienta fue desarrollada para la creación de grupos adyacentes de polígonos de acuerdo a magnitudes acumulativas o un atributo especifico.
 </p>
