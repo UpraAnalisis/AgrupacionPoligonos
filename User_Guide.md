@@ -1,5 +1,5 @@
 
-  ## Guía de Usuario para la formación de grupos polígonos adyacentes de acuerdo a una magnitud acumulativa.
+  ## Guía de Usuario para la formación de grupos de polígonos adyacentes de acuerdo a una magnitud acumulativa.
 
 <p>
 Instrucciones para insertar datos en el script:</br>
@@ -12,7 +12,7 @@ Antes de iniciar los siguientes pasos, recuerde que antes debería haber leído 
  <img src="Imagenes\geoprocesing_options.png">
 </p>
 
-2. Busque el Script Python “Script_UPRA_grouping_polygons_ cumulative magnitude" en el ArcMap Catalog y de doble click en el Script, y aparecerá una venta de usuario que le permitira ingresar los datos necesarios para que el script funcione.
+2. Busque el Script Python “Script_UPRA_grouping_polygons_ cumulative magnitude" en el ArcMap Catalog y de doble clic en el Script, y aparecerá una venta de usuario que le permitirá ingresar los datos necesarios para que el script funcione.
 
 <p align="center">
  <img src="Imagenes\abrir_script.png">
@@ -33,22 +33,22 @@ Antes de iniciar los siguientes pasos, recuerde que antes debería haber leído 
  <img src="Imagenes\gdb_resultados.png">
 </p>
 
-5. El tercer parámetro solicitado por el Script es la ubicación del Feature Class que contiene los polígonos que se desean agrupar(Propiedades, lotes, bloques, zonas, vecinos, etc). Importante: El Feature Class ingresado debe estar como Single Part.
+5. El tercer parámetro solicitado por el Script es la ubicación del Feature Class que contiene los polígonos que se desean agrupar (Propiedades, lotes, bloques, zonas, vecinos, etc). Importante: El Feature Class ingresado debe estar como Single Part.
 
 <p align="center">
  <img src="Imagenes\path_FeatureClass.png">
 </p>
 
-6. En el cuarto parámetro se selecciona al usuario el campo numérico que contiene los valores con los cuales se limitará la configuración de cada uno de los grupos mientras completa la suma total. (El campo contiene valores de área, precios, presupuestos, etc. )
+6. En el cuarto parámetro se selecciona al usuario el campo numérico que contiene los valores con los cuales se limitará la configuración de cada uno de los grupos mientras completa la suma total. (El campo contiene valores de área, precios, presupuestos, etc.)
 
 <p align="center">
  <img src="Imagenes\campo_valor.png">
 </p>
 
-7. El último parámetro que será ingresado por el usuario es el valor máximo que cada  puede tener  cada grupo resultante. Este valor debe relacionarse logicamente con el campo seleccionado en el paso 6. Importante: El valor máximo asignado por el usuario, no puede ser menor que el máximo valor que se encuentre en el campo seleccionado en el paso 6, Esto podría crear un error. Logicamente, el valor máximo asignado por el usuario  tampoco debe ser menor que el valor mínimo del campo seleccionado en el paso 6.
+7. El último parámetro que será ingresado por el usuario es el valor máximo que cada  puede tener  cada grupo resultante. Este valor debe relacionarse lógicamente con el campo seleccionado en el paso 6. Importante: El valor máximo asignado por el usuario, no puede ser menor que el máximo valor que se encuentre en el campo seleccionado en el paso 6, Esto podría crear un error. Lógicamente, el valor máximo asignado por el usuario  tampoco debe ser menor que el valor mínimo del campo seleccionado en el paso 6.
 
 <p align="center">
  <img src="Imagenes\valor_maximo.png">
 </p>
 
-8. Una vez todos los datos hayan sido ingresados en el script, el usuario puede proceder a dar click en el botón "OK"  y esperar a que se ejecute el proceso.
+8. Una vez todos los datos hayan sido ingresados en el script, el usuario puede proceder a dar clic en el botón "OK"  y esperar a que se ejecute el proceso.

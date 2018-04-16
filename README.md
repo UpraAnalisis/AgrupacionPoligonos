@@ -2,8 +2,13 @@
 ** SCRIPT DE PYTHON PARA LA GENERACIÓN DE GRUPOS DE POLÍGONOS**
 </p>
 
+a. [Instalación](Installation.md)
+
+b. [Guía de usuario](User_Guide.md)
+
+Breve descripción del Script
 <p>
-La herramienta fue desarrolada para la creación de grupos adyacentes de poligonos de acuerdo a magnitudes acumulativas o un atributo especifico.
+La herramienta fue desarrollada para la creación de grupos adyacentes de polígonos de acuerdo a magnitudes acumulativas o un atributo especifico.
 </p>
 1. Parámetros ingresados por el usuario.
 
@@ -17,7 +22,7 @@ La herramienta fue desarrolada para la creación de grupos adyacentes de poligon
  <img src="Imagenes\zona_estudio.png">
 </p>
 
-3. Determinación de los polígonos mas extremos de la zona de estudio.
+3. Determinación de los polígonos más extremos de la zona de estudio.
 
 <p align="center">
  <img src="Imagenes\determinar_poligonos.png">
@@ -29,7 +34,7 @@ La herramienta fue desarrolada para la creación de grupos adyacentes de poligon
  <img src="Imagenes\seleccion_poligonos.png">
 </p>
 
-5. El algoritmo establece el primer grupo evaluando que la sumatoria de valores seleccionados no exceda el valor máximo ingresado por el usuario (No Mayor a 7) Si hay exceso elimina el vecino de mayor área, si hay defecto agrega mas vecinos.
+5. El algoritmo establece el primer grupo evaluando que la sumatoria de valores seleccionados no exceda el valor máximo ingresado por el usuario (No Mayor a 7) Si hay exceso elimina el vecino de mayor área, si hay defecto agrega más vecinos.
 
 <p align="center">
  <img src="Imagenes\establece_grupo.png">
@@ -47,7 +52,3 @@ La herramienta fue desarrolada para la creación de grupos adyacentes de poligon
 <p align="center">
  <img src="Imagenes\grupos.png">
 </p>
-
-
-  a. [Instalación](Installation.md)
-  b. [Guía de usuario](User_Guide.md)

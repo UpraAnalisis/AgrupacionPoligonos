@@ -10,7 +10,7 @@ A continuación se muestran los principales pasos para una instalación completa
  <img src="Imagenes\descarga.png">
 </p>
 
-2. Descomprima el archivo "Script_UPRA_grouping_polygons_ accumulative magnitude.zip". Tenga en cuenta que despues de la extracción se generará una carpeta con los siguientes archivos:
+2. Descomprima el archivo "Script_UPRA_grouping_polygons_ accumulative magnitude.zip". Tenga en cuenta que después de la extracción se generará una carpeta con los siguientes archivos:
 
 <p align="center">
  <img src="Imagenes\ArchivosDescargados.png">
@@ -28,7 +28,7 @@ A continuación se muestran los principales pasos para una instalación completa
  <img src="Imagenes\expandir.png">
 </p>
 
-5. De doble click en el Script "Script_UPRA_grouping_polygons_cumulative magnitude" donde puede observar la interfaz inicial para el ingreso de datos por parte del usuario.
+5. De doble clic en el Script "Script_UPRA_grouping_polygons_cumulative magnitude" donde puede observar la interfaz inicial para el ingreso de datos por parte del usuario.
 
 <p align="center">
  <img src="Imagenes\interfazinicial.png">
