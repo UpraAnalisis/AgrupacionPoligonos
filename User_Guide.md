@@ -1,5 +1,5 @@
 
-  ## Guía de Usuario para la caja de herramienta Python con la guía para la formación de grupos polígonos adyacentes de acuerdo a una magnitud acumulativa.
+  ## Guía de Usuario para la formación de grupos polígonos adyacentes de acuerdo a una magnitud acumulativa.
 
 <p>
 Instrucciones para insertar datos en el script:</br>
